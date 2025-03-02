@@ -1,4 +1,5 @@
 # UT Austin Deep Learning Fall 2024
+- Main code is inside ./homework folder
 
 In this homework, we will explore Convolution Networks in core computer vision tasks:
 - Classification
