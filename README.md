@@ -1,4 +1,4 @@
-# Homework 3
+# UT Austin Deep Learning Fall 2024
 
 In this homework, we will explore Convolution Networks in core computer vision tasks:
 - Classification
